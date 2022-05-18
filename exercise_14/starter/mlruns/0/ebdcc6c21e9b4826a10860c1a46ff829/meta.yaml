@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/oluwaseyi.ogunnowo/Documents/genre_classification/exercise_14/starter/mlruns/0/ebdcc6c21e9b4826a10860c1a46ff829/artifacts
+end_time: 1652857502537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ebdcc6c21e9b4826a10860c1a46ff829
+run_uuid: ebdcc6c21e9b4826a10860c1a46ff829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652857495194
+status: 4
+tags: []
+user_id: oluwaseyi.ogunnowo
